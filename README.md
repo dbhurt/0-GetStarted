@@ -14,8 +14,8 @@ While there are many tools, many languages, many environments, and a million dif
 For some reason, doing things in the console has become the cool new (old) thing again, so if you aren't used to using the console, I'm sorry. Console aside, let's make sure everything is setup by creating a new console project, compile it, and execute it.
 1. Open a console and change directory to a place you want your files to live, in my case *cd C:\mygit*
 1. Enter this into the console: *dotnet new console -o "ConsoleApplication"*
-        1. This tells .Net to create a new console application and will name the parent directory "ConsoleApplication", you can name this whatever you like
-        1. Once you get a success message, cd into that directory *cd ConsoleApplication*
+    1. This tells .Net to create a new console application and will name the parent directory "ConsoleApplication", you can name this whatever you like
+    1. Once you get a success message, cd into that directory *cd ConsoleApplication*
 1. Now open it in Visual Studio: *code .*
 1. Your Visual Studio Code should have openned with the newly created project and Hello World code already for you in Program.cs
 1. Press F5, this code should compile for you and automatically execute.  You should see a bunch of jargon in your Terminal window and finally "Hello world!" printed within.  If so, congratulations, you have successfully setup your computer to develop with .net
