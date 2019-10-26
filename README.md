@@ -1,7 +1,7 @@
 # Getting started
 You only need to be here if you have NEVER setup your machine to execute or build .net
 
-While there are many tools, many languages, many environments, and a million different ways to do the same thing in this field, I'm only going to focus our efforts on .Net 3 and Visual Studio Code.
+While there are many tools, many languages, many environments, and a million different ways to do the same thing in this field, I'm only going to focus our efforts on .Net Core 3 and Visual Studio Code.
 
 ## Lets start:
 1. Open a console window and enter *dotnet --version*
